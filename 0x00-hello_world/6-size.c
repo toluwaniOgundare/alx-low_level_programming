@@ -1,12 +1,5 @@
 #include <stdio.h>
 
-/**
-* main - print size of various types on the computer script is compiled and run on
-*
-* Description - using the main function
-* this program prints the size of types on any computer it is compiled on
-* Return: 0
-*/
 int main(void)
 {
 	char c;
