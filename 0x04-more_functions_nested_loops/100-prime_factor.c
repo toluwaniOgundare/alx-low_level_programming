@@ -25,7 +25,7 @@ int main(void)
 			if (number % inc == 0)
 				number /= inc;
 		}
-		}
-		printf ("%ld\n", number);
-		return (0);
+	}
+	printf ("%ld\n", number);
+	return (0);
 }
