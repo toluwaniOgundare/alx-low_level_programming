@@ -16,3 +16,6 @@ void print_numbers(void)
 		putchar(n);
 	}
 
+	return (0);
+}
+
